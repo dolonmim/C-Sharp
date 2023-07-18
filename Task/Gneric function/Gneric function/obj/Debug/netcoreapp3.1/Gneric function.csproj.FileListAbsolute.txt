@@ -1,0 +1,14 @@
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.exe
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.deps.json
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.runtimeconfig.json
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.dll
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\bin\Debug\netcoreapp3.1\Gneric function.pdb
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.dll
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.pdb
+E:\Semester 6\OOP2\Task\Gneric function\Gneric function\obj\Debug\netcoreapp3.1\Gneric function.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\database connection\database connection\bin\Debug\database connection.exe.config
+C:\Users\USER\source\repos\database connection\database connection\bin\Debug\database connection.exe
+C:\Users\USER\source\repos\database connection\database connection\bin\Debug\database connection.pdb
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database connection.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database_connection.Properties.Resources.resources
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database connection.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database connection.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database connection.exe
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database connection.pdb
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database_connection.Form1.resources
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database_connection.Dashbook.resources
+C:\Users\USER\source\repos\database connection\database connection\obj\Debug\database_connection.login.resources

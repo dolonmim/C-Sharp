@@ -1,0 +1,14 @@
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.exe
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.deps.json
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.runtimeconfig.json
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.dll
+E:\Semester 6\OOP2\Task\Deligate\Deligate\bin\Debug\netcoreapp3.1\Deligate.pdb
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.dll
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.pdb
+E:\Semester 6\OOP2\Task\Deligate\Deligate\obj\Debug\netcoreapp3.1\Deligate.genruntimeconfig.cache

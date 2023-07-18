@@ -1,0 +1,11 @@
+C:\Users\mazid\source\repos\NineQWF\NineQWF\bin\Debug\NineQWF.exe.config
+C:\Users\mazid\source\repos\NineQWF\NineQWF\bin\Debug\NineQWF.exe
+C:\Users\mazid\source\repos\NineQWF\NineQWF\bin\Debug\NineQWF.pdb
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.Form1.resources
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.Form2.resources
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.Properties.Resources.resources
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.csproj.GenerateResource.cache
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.exe
+C:\Users\mazid\source\repos\NineQWF\NineQWF\obj\Debug\NineQWF.pdb

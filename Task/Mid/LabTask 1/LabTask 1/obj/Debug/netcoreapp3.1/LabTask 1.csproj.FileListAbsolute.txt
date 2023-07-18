@@ -1,0 +1,14 @@
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.exe
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.deps.json
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.runtimeconfig.json
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.runtimeconfig.dev.json
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.dll
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\bin\Debug\netcoreapp3.1\LabTask 1.pdb
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.AssemblyInfo.cs
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.dll
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.pdb
+E:\Semester 6\OOP2\LabTask 1\LabTask 1\obj\Debug\netcoreapp3.1\LabTask 1.genruntimeconfig.cache

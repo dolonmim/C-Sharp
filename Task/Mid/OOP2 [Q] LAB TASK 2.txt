@@ -1,0 +1,11 @@
+Write a program to demonstrate the following through multiple (YourName.cs, Program.cs) files:
+
+	1. Access specifier - all - (name, id, cgpa, semester, program, university)
+	2. set, get method for all
+	3. Constructors - 4 types
+	4. Display method
+
+Create 3 objects:
+object 1-> empty constructor -> value passing: set -> printing: get
+object 2-> param constructor -> value passing: param -> printing-> display
+object 3-> copy contructor -> printing ->get/display

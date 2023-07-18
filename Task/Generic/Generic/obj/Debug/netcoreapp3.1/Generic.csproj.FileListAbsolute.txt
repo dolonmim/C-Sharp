@@ -1,0 +1,14 @@
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+E:\Semester 6\OOP2\Task\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+E:\Semester 6\OOP2\Task\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab task 3.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab_task_3.Form1.resources
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab_task_3.Properties.Resources.resources
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab task 3.csproj.GenerateResource.cache
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab task 3.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab_task_3.Form2.resources
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\bin\Debug\lab task 3.exe.config
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\bin\Debug\lab task 3.exe
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\bin\Debug\lab task 3.pdb
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab task 3.exe
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab task 3.pdb
+E:\Semester 6\OOP2\Task\lab task 3\lab task 3\obj\Debug\lab_task_3.Form3.resources

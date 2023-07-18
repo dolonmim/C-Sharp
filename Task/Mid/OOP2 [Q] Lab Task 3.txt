@@ -1,0 +1,14 @@
+Write a program to demonstrate FUNCTION:
+in class: i-v
+i. Pass by VALUE (addition)
+ii. Pass by Reference (multiply)
+iii. Out Parameter (initialize a variable with the mentioned part of your id for 
+i and ii, multiply it by the last part)
+iv. Params (pass all the number)
+v. Named parameter
+
+Consider the last 3 digit of the middle part of your id for i and ii 
+(Example: if your id is XX-30455-X, then cosider 455), last part for iii 
+, all digits for iv. 
+
+**Submission guidelines: Same as previous tasks.

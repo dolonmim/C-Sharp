@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Interface_code</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\Semester 6\OOP2\Task\interface.cs" Link="interface.cs" />
+  </ItemGroup>
+
+</Project>

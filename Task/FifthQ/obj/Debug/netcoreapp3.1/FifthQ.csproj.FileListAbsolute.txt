@@ -1,0 +1,14 @@
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.exe
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.deps.json
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.runtimeconfig.json
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.runtimeconfig.dev.json
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.dll
+C:\Users\mazid\source\repos\FifthQ\FifthQ\bin\Debug\netcoreapp3.1\FifthQ.pdb
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.AssemblyInfoInputs.cache
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.AssemblyInfo.cs
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.dll
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.pdb
+C:\Users\mazid\source\repos\FifthQ\FifthQ\obj\Debug\netcoreapp3.1\FifthQ.genruntimeconfig.cache

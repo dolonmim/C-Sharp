@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.exe
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.deps.json
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.runtimeconfig.json
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.dll
+C:\Users\USER\source\repos\Interface code\Interface code\bin\Debug\netcoreapp3.1\Interface code.pdb
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.AssemblyInfo.cs
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.dll
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.pdb
+C:\Users\USER\source\repos\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.genruntimeconfig.cache
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.dll
+E:\Semester 6\OOP2\Task\Interface code\Interface code\obj\Debug\netcoreapp3.1\Interface code.pdb
