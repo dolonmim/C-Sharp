@@ -1,0 +1,14 @@
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.exe
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.deps.json
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.runtimeconfig.json
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.runtimeconfig.dev.json
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.dll
+C:\Users\mazid\source\repos\SixthQ\SixthQ\bin\Debug\netcoreapp3.1\SixthQ.pdb
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.AssemblyInfoInputs.cache
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.AssemblyInfo.cs
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.dll
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.pdb
+C:\Users\mazid\source\repos\SixthQ\SixthQ\obj\Debug\netcoreapp3.1\SixthQ.genruntimeconfig.cache

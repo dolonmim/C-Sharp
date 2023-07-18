@@ -1,0 +1,11 @@
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\bin\Debug\windows class 3.exe.config
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\bin\Debug\windows class 3.exe
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\bin\Debug\windows class 3.pdb
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows class 3.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows_class_3.Form1.resources
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows_class_3.Form2.resources
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows_class_3.Properties.Resources.resources
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows class 3.csproj.GenerateResource.cache
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows class 3.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows class 3.exe
+E:\Semester 6\OOP2\Task\windows class 3\windows class 3\obj\Debug\windows class 3.pdb

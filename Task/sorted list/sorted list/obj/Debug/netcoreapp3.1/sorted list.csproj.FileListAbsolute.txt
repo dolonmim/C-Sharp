@@ -1,0 +1,14 @@
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.exe
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.deps.json
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.runtimeconfig.json
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.dll
+E:\Semester 6\OOP2\Task\sorted list\sorted list\bin\Debug\netcoreapp3.1\sorted list.pdb
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.dll
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.pdb
+E:\Semester 6\OOP2\Task\sorted list\sorted list\obj\Debug\netcoreapp3.1\sorted list.genruntimeconfig.cache

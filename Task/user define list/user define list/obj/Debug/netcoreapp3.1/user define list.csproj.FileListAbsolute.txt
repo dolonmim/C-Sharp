@@ -1,0 +1,13 @@
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.exe
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.deps.json
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.runtimeconfig.json
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.dll
+E:\Semester 6\OOP2\Task\user define list\user define list\bin\Debug\netcoreapp3.1\user define list.pdb
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.dll
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.pdb
+E:\Semester 6\OOP2\Task\user define list\user define list\obj\Debug\netcoreapp3.1\user define list.genruntimeconfig.cache

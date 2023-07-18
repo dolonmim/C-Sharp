@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.exe
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.deps.json
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.json
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.dev.json
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.dll
+C:\Users\USER\source\repos\stack\stack\bin\Debug\netcoreapp3.1\stack.pdb
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfo.cs
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.dll
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.pdb
+C:\Users\USER\source\repos\stack\stack\obj\Debug\netcoreapp3.1\stack.genruntimeconfig.cache
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.exe
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.deps.json
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.json
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.dev.json
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.dll
+E:\Semester 6\OOP2\Task\stack\stack\bin\Debug\netcoreapp3.1\stack.pdb
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.csproj.AssemblyReference.cache
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfoInputs.cache
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfo.cs
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.csproj.CoreCompileInputs.cache
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.dll
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.pdb
+E:\Semester 6\OOP2\Task\stack\stack\obj\Debug\netcoreapp3.1\stack.genruntimeconfig.cache

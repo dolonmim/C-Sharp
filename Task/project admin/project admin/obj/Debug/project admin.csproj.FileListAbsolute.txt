@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\project admin\project admin\bin\Debug\project admin.exe.config
+C:\Users\USER\source\repos\project admin\project admin\bin\Debug\project admin.exe
+C:\Users\USER\source\repos\project admin\project admin\bin\Debug\project admin.pdb
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project admin.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project_admin.Form1.resources
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project_admin.Properties.Resources.resources
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project admin.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project admin.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project admin.exe
+C:\Users\USER\source\repos\project admin\project admin\obj\Debug\project admin.pdb
